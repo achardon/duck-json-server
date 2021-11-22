@@ -1,0 +1,20 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Lorenzo",
+      "hobbies": "building towers"
+    },
+    {
+      "id": 2,
+      "name": "Cassidy",
+      "hobbies": "learning how to crawl"
+    }
+  ],
+  "goals": [
+    {
+      "id": 1,
+      "name": "Complete final project"
+    }
+  ]
+}

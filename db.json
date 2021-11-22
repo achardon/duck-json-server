@@ -1,0 +1,35 @@
+{
+  "players": [
+    {
+      "name": "Alex",
+      "hobbies": "Biking, baking",
+      "id": 1
+    },
+    {
+      "name": "Patrick",
+      "hobbies": "Disc Golf, Brewing Beer",
+      "id": 2
+    },
+    {
+      "name": "Marie",
+      "hobbies": "Photography, finding ducks in the wild",
+      "id": 4
+    },
+    {
+      "name": "Enzo",
+      "hobbies": "building towers out of blocks",
+      "id": 5
+    },
+    {
+      "name": "Goldie",
+      "hobbies": "Red Wine Club",
+      "id": 6
+    }
+  ],
+  "goals": [
+    {
+      "name": "Practice German every day",
+      "id": 2
+    }
+  ]
+}
