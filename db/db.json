@@ -17,19 +17,18 @@
     },
     {
       "name": "Enzo",
-      "hobbies": "building towers out of blocks",
+      "hobbies": "Hiking, Climbing, Running",
       "id": 5
-    },
-    {
-      "name": "Goldie",
-      "hobbies": "Red Wine Club",
-      "id": 6
     }
   ],
   "goals": [
     {
       "name": "Practice German every day",
       "id": 2
+    },
+    {
+      "name": "Team Dinner",
+      "id": 3
     }
   ]
 }
