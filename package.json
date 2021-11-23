@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "^0.16.3"
+    "json-server": "^0.16.3",
+    "faker": "^5.4.0",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "nodemon": "1.18.4"
